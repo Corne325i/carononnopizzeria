@@ -3,3 +3,4 @@ koffie
 aanrecht
 sleutel
 test 1
+salt
